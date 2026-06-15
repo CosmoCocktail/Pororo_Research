@@ -22,8 +22,8 @@ QUESTION_FILE   = "questions.xlsx"
 RESULT_FILE     = "result.xlsx"
 CHARACTERS      = ["에디", "크롱", "뽀로로", "루피", "포비"]
 BG_IMAGE_FILE   = "background.png"
-FONT_IMPORT_URL = "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap"
-FONT_FAMILY     = "'Noto Sans KR', sans-serif"
+FONT_IMPORT_URL = "https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap"
+FONT_FAMILY     = "'Black Han Sans', sans-serif"
 
 # ======================
 # 동점 추가 질문
